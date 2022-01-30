@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 25px;
+}
+.note{
+    font-size: 17px;
+    color: black;
+}
+#object{
+    width: 35%;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: crimson;
+}
+canvas{
+    border-width: 3;
+    border-style: ridge;
+    border-radius: 20px;
+    box-shadow: 3px,3px,40px,darkmagenta;
+    margin-top: 130;
+}
